@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Captured network traffic
+captures/
+*.pcap
+*.pcapng
+
+# Generated reports
+reports/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
